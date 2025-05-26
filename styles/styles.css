@@ -15,3 +15,8 @@ h2 {
 p {
   background-color: rgb(105, 64, 10);
 }
+
+.dark {
+  color: white;
+  background-color: black;
+}
