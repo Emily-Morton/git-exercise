@@ -1,8 +1,17 @@
 * {
   font-family: sans-serif;
-  color: blue;
+  color: rgb(0, 255, 106);
 }
 
 h1 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: blueviolet;
+}
+
+h2 {
+  color: aqua;
+}
+
+p {
+  background-color: rgb(105, 64, 10);
 }
